@@ -1,4 +1,4 @@
-# HiLoGame by Gaming1
+# HiLoGame
 
 The first idea for this game implementation came out for it to be used as a simple couch game, where the players can share the keyboard to play it by turns.
 
